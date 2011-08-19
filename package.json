@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "name": "mongoose-backbone",
+  "description": "Module that exposes mongoose models over Backbone.js",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
